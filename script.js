@@ -3,7 +3,7 @@ const dateOptionsSelectElement = document.getElementById("date-options");
 
 const date = new Date();
 
-date.setFullYear(2020,10,15);
+//date.setFullYear(2020,10,15);
 
 const day = date.getDate();
 const month = date.getMonth() + 1;
